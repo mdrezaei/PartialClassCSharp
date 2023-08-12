@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleApp11_PartialClass/1.0.0": {
+        "runtime": {
+          "ConsoleApp11_PartialClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp11_PartialClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
